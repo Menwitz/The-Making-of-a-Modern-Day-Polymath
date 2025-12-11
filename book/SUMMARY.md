@@ -1,5 +1,6 @@
 # Summary
 
+* [Cover](cover.md)
 * [Preface](preface.md)
 * [Part I - The Polymathic Lens](part-01-polymathic-lens/README.md)
   * [Ch. 1: Why Polymathy?](part-01-polymathic-lens/01-why-polymathy.md)

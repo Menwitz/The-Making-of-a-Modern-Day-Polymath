@@ -9,4 +9,4 @@ build-dir = "public"
 
 [output.html]
 default-theme = "light"
-additional-css = []
+additional-css = ["theme/custom.css"]

@@ -34,3 +34,8 @@ The manuscript is plain Markdown, so you can:
 - Build the site: `mdbook build` (outputs to `public/`, which is gitignored).
 - Preview locally with live reload: `mdbook serve -o`.
 - GitHub Actions workflow `.github/workflows/mdbook.yml` builds on every push/PR; pushes to `gh-pages` when main is updated. Enable GitHub Pages to serve from the `gh-pages` branch.
+
+## Cover
+- Place the cover image at `book/assets/cover.jpg` (or `.png`).
+- The cover page lives at `book/cover.md` and is first in `book/SUMMARY.md`.
+- Styling is handled by `book/theme/custom.css` (referenced in `book.toml`).

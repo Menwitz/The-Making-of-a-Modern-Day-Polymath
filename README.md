@@ -13,7 +13,8 @@ Markdown manuscript for the book. Content lives in `book/` and is organized for 
 - Enable GitHub Pages in repo settings to serve from `gh-pages` after the first successful run.
 
 ## Structure
-- `book/SUMMARY.md` — table of contents for mdBook navigation.
+- `book/SUMMARY.md` — table of contents for mdBook navigation (cover page is first).
 - `book/part-*/` — chapters grouped by part.
 - `book/appendices/` — supplemental material.
 - `book.toml` — mdBook configuration targeting `book/` as the source.
+- `book/assets/cover.jpg` — cover art referenced by `book/cover.md`; styling in `book/theme/custom.css`.
