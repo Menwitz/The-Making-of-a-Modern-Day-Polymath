@@ -1,0 +1,32 @@
+name: mdBook
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Install mdBook
+        uses: peaceiris/actions-mdbook@v1
+        with:
+          mdbook-version: '0.4.40'
+      - name: Build site
+        run: mdbook build
+      - name: Upload artifact
+        uses: actions/upload-artifact@v4
+        with:
+          name: mdbook-site
+          path: public
+      - name: Deploy to GitHub Pages
+        if: github.event_name == 'push' && github.ref == 'refs/heads/main'
+        uses: peaceiris/actions-gh-pages@v4
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          publish_branch: gh-pages
+          publish_dir: public
