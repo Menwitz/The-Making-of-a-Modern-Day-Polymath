@@ -17,8 +17,16 @@ Chemistry starts with atoms and bonds, builds into reactions and kinetics, and m
 ## Origin and bridge
 Need: control fire, preserve food, and craft stronger tools. Invention: rules for how matter rearranges and how energy flows. Leap: designing reactions, fuels, and materials on purpose. Bridge: chemistry and thermodynamics feed materials science, batteries, engines, and the systems engineers rely on.
 
+### Quick map (need -> invention -> next field)
+- Food and fire -> preservation, cooking, metallurgy -> materials science.
+- Heat and work -> thermodynamics -> engines and power grids.
+- Precision reactions -> chemistry -> batteries, fuels, and synthesis.
+
 ## Activity
 Cook an egg two ways (boiled and fried). Note texture, time, and heat source. Write one paragraph about what happened to proteins and water in each method. You just performed a controlled experiment in phase change and denaturation.
+
+### Optional mini-visual
+Draw a three-box sketch: inputs (heat, reactants) -> transformation (bond breaking/forming, energy flow) -> outputs (texture, products, waste). Use your egg experiment as the concrete example.
 
 ## Reflection
 - Where do you already rely on a transformation you cannot yet explain (e.g., fermentation, combustion, corrosion)?
