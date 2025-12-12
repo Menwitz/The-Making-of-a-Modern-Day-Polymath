@@ -17,8 +17,16 @@ Start simple: geometry tracks shapes; classical mechanics explains motion; elect
 ## Origin and bridge
 Need: predict motion and harness forces. Invention: math-made-physical rules about how objects move and fields interact. Leap: using those rules to design machines and energy systems. Bridge: physics hands engineering the playbook for building in the real world.
 
+### Quick map (need -> invention -> next field)
+- Navigation and building -> geometry and mechanics -> engineering.
+- Electricity and light -> electromagnetism -> power and communications.
+- Speed and gravity extremes -> relativity and quantum -> modern materials and sensors.
+
 ## Activity
 Pick a daily object (bike, fan, door). Sketch the forces when it moves or resists motion. Label where energy enters and where it dissipates. Then change one variable (add weight, adjust friction) and predict the new behavior before you test it. This trains intuition in cause and effect.
+
+### Optional mini-visual
+Draw a three-box sketch: forces -> model -> design tweak. Use your chosen object and label inputs/outputs.
 
 ## Reflection
 - Which force surprised you? How could you measure it better?
