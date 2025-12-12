@@ -14,5 +14,14 @@ Cooking teaches reaction control; hunting and foraging teach ecology and ethics;
 ## Concept
 Culinary chemistry covers heat transfer, Maillard reactions, and emulsions. Foraging demands pattern recognition and risk assessment. Hunting and butchery involve anatomy and safety. Survival weaves them together with shelter, water, and fire-making.
 
+## Feel the science
+- Chemistry: phase change, denaturation, reactions.
+- Thermodynamics: heat transfer and energy budgets.
+- Ecology/ethics: resource cycles, sustainability, and respect for impact.
+
 ## Activity
 Cook the same ingredient three ways (roast, steam, sear). Note texture, flavor, and moisture differences. Write one paragraph on how heat method changed the chemistry. Optionally, practice a friction fire with supervision or a ferro rod to feel energy transfer firsthand.
+
+## Reflection
+- What transformation do you depend on daily without noticing its inputs and waste?
+- How does seeing the full chain (source -> preparation -> use -> discard) change your choices?

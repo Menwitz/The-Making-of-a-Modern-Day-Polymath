@@ -12,5 +12,12 @@ Curiosity without method stalls. With good learning mechanics, you can pick up a
 ## Concept
 Metacognition (thinking about how you think) guides strategy. Spaced repetition and active recall strengthen memory. Interleaving mixes topics to build flexibility. Deliberate practice targets weak points with feedback. Reflection consolidates lessons and improves the next cycle.
 
+## Bridge
+Learning mechanics are the glue for polymathy. They let you climb prerequisite chains faster and keep the bridges between fields intact instead of forgetting them.
+
 ## Activity
 Choose one topic you want to learn. Create a 7-day plan: daily 25-minute sessions using active recall (flashcards or closed-book summaries), plus a short reflection each night on what stuck and what needs clarification. At the end, teach the topic in five minutes to a friend or camera.
+
+## Reflection
+- Which tactic moved from theory to habit this week?
+- How will you tweak your learning loop for the next discipline you tackle?

@@ -14,5 +14,12 @@ Whether you design bridges, circuits, rockets, or climate models, you lean on ph
 ## Concept
 Start simple: geometry tracks shapes; classical mechanics explains motion; electromagnetism unifies electricity and magnetism; relativity refines motion at high speeds and gravity at cosmic scales; quantum mechanics governs the small. Physics evolves by testing ideas against experiments and refining models that survive.
 
+## Origin and bridge
+Need: predict motion and harness forces. Invention: math-made-physical rules about how objects move and fields interact. Leap: using those rules to design machines and energy systems. Bridge: physics hands engineering the playbook for building in the real world.
+
 ## Activity
 Pick a daily object (bike, fan, door). Sketch the forces when it moves or resists motion. Label where energy enters and where it dissipates. Then change one variable (add weight, adjust friction) and predict the new behavior before you test it. This trains intuition in cause and effect.
+
+## Reflection
+- Which force surprised you? How could you measure it better?
+- What physics idea did you rely on today without naming it?

@@ -1,6 +1,10 @@
 # Part III: Embodied Knowledge (The Skills of Living)
 
-Knowing is not just in the head. These chapters move into the body-movement, ocean, fire, conflict, craft, sky, and connection. You will learn to feel physics, biology, and psychology firsthand.
+Knowing is not just in the head. These chapters move into the body-movement, ocean, fire, conflict, craft, sky, and connection. You will learn to feel physics, biology, and psychology firsthand, and notice how embodied practice sharpens understanding and living.
 
 ## Activity for this part
 Pick a physical skill you have never tried (a balance drill, knot tying, basic boxing footwork). Practice for 10 minutes, then write one sentence about how it changed your mental model of force, timing, or risk.
+
+## Reflection
+- Which embodied skill changed how you think about a scientific idea?
+- Where did your body give feedback faster than your brain?

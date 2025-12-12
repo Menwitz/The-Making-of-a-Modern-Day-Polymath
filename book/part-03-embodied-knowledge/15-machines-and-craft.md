@@ -14,5 +14,14 @@ When you can diagnose a squeaking hinge, a misaligned wheel, or a flaky circuit,
 ## Concept
 Mechanics covers forces, levers, and gear ratios. Electronics introduces voltage, current, and logic. Prototyping blends both with iterative design. Craft is the habit of building, testing, and refining in the physical world.
 
+## Feel the science
+- Mechanics: torque, friction, tolerances.
+- Electronics: voltage, current, resistance, and simple logic.
+- Design: iteration, constraints, and trade-offs.
+
 ## Activity
 Disassemble a small broken device (old mouse, toy). Identify each component and guess its role. Reassemble or repurpose parts into something simple (LED on battery with switch). Note what you learned about design choices and constraints.
+
+## Reflection
+- Which failure mode taught you the most? What did it reveal about the system?
+- How could you prototype a life decision the way you prototype hardware?

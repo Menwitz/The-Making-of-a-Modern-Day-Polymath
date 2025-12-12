@@ -14,5 +14,14 @@ Life delivers conflicts-negotiations, crises, surprises. Practicing under contro
 ## Concept
 Martial arts teach distance, leverage, and respect. Boxing refines timing and defense. Strategy games like chess teach planning, trade-offs, and probabilistic thinking. The common core: act, observe feedback, update your model quickly.
 
+## Feel the science
+- Physics: leverage, timing, force vectors.
+- Psychology: stress responses, attention, pattern recognition.
+- Strategy: game theory, risk/reward, and feedback loops.
+
 ## Activity
 Play a five-minute chess game and note three moments you misread the board. Then shadowbox or air-spar for two minutes, focusing only on footwork and breathing. Write one line about how your attention shifted in each practice.
+
+## Reflection
+- What signal did you learn to trust under pressure?
+- How could you apply the same feedback loop to negotiations or product decisions?

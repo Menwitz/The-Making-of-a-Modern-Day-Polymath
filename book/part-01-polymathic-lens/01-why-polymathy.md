@@ -14,6 +14,9 @@ The world rarely hands you problems with labels that match your major. You need 
 ## Concept
 Specialization narrows search space; polymathy expands it. When you can ask "What would a biologist notice? What would an engineer prototype? What would a storyteller reframe?" you surface options faster and avoid blind spots. Polymathy is not shallow dabbling; it is depth in a few areas plus fluency in many, stitched together by curiosity.
 
+## Bridge
+This book argues that every science was born from a need: counting for trade, physics for motion, chemistry for materials, computing for scale. Polymathy lets you trace those needs, spot the handoffs, and reuse ideas across domains and daily life.
+
 ## Quick checklist
 - Name three lenses to apply (e.g., scientist, designer, storyteller).
 - For each lens, write one naive question and one expert question.
@@ -21,3 +24,7 @@ Specialization narrows search space; polymathy expands it. When you can ask "Wha
 
 ## Activity
 Pick a nagging problem you have (sleep, budgeting, team conflict). Write three answers to "How might I solve this?"-one as a scientist (measure, experiment), one as a designer (observe users, sketch), one as a coach (habit and feedback). Choose one action from each answer and try them this week. After seven days, write three lines on which lens helped most and which you want to strengthen next.
+
+## Reflection
+- What field do you trust most? Least? Why? How could you borrow from the one you avoid?
+- Where did combining two lenses reveal something you missed with one?

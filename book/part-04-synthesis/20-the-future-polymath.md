@@ -16,3 +16,7 @@ AI and automation extend cognition; complexity science studies systems with feed
 
 ## Activity
 Pick one emerging topic (AI safety, quantum biology, synthetic food). Write a one-page brief with: the core idea, one potential benefit, one risk, and one ethical question. Identify the disciplines you would need to consult to act responsibly.
+
+## Reflection
+- What frontier most excites you, and which value will you use as your compass there?
+- How will you keep your learning and ethics loops tight as tools evolve?

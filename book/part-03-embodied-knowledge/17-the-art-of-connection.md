@@ -14,5 +14,14 @@ Even the best ideas fail without buy-in. Understanding how humans perceive, deci
 ## Concept
 Emotional intelligence starts with self-awareness and regulation. Rhetoric offers structure (ethos, pathos, logos) and pacing. Negotiation blends listening, framing, and principled trade-offs. Together they make connection intentional rather than accidental.
 
+## Feel the science
+- Psychology: attention, emotion regulation, and trust-building.
+- Linguistics: framing, metaphor, and pacing.
+- Systems: incentives and feedback loops in groups.
+
 ## Activity
 Rewrite a recent request you made (email or text) in three versions: one emphasizing logic, one emphasizing shared values, and one using a story. Send the most appropriate version to a trusted friend and ask which resonates. Note how framing shifts response.
+
+## Reflection
+- Which channel (logic, values, story) landed best? Why?
+- How can you build a feedback loop to learn from every conversation?

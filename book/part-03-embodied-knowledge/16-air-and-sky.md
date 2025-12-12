@@ -14,5 +14,14 @@ Flight compresses feedback loops; mistakes can be costly. Learning to follow che
 ## Concept
 Aerodynamics explains lift and drag; gliding and powered flight add energy management; skydiving adds body control in airflow. Safety culture-briefings, checklists, redundancy-is as core as physics.
 
+## Feel the science
+- Physics: lift, drag, glide ratios, stability.
+- Systems: checklists, redundancy, and human factors.
+- Psychology: calm under time pressure and signal prioritization.
+
 ## Activity
 Fold and test three paper airplane designs. Measure glide distance and stability. Write down how small design changes (wing dihedral, nose weight) alter performance. Connect those changes to lift, drag, and center of gravity.
+
+## Reflection
+- Which checklist item saved you from a mistake? How can you adopt that in other projects?
+- How did a small design tweak change performance? Where in life could a small tweak give outsized lift?

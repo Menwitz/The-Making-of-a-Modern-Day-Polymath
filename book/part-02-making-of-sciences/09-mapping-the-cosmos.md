@@ -14,5 +14,12 @@ Cosmic perspective shrinks ego and expands responsibility. It also drives techno
 ## Concept
 Start with observational astronomy (charting positions and light), add celestial mechanics (orbits and gravity), then cosmology (the universe's origin and fate). Astrobiology asks where life might arise. Each layer relies on careful measurement and models tested against the sky.
 
+## Origin and bridge
+Need: navigate and tell time. Invention: careful watching, logging, and predicting the heavens. Leap: physics of gravity and light that scales to galaxies and time itself. Bridge: astronomy sharpened instruments (lenses, sensors, timekeeping) that empowered physics, engineering, and eventually computing.
+
 ## Activity
 Go outside and sketch the moon's position relative to a landmark at the same time for three nights. Note its shift. Write one paragraph on what that motion suggests about orbits. You just did observational astronomy.
+
+## Reflection
+- How does a cosmic timescale change your view of daily choices?
+- Which tool from astronomy (measurement, modeling, patience) can you apply elsewhere?

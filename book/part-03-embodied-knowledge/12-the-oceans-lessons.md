@@ -14,5 +14,14 @@ Studying moving water sharpens situational awareness and humility. You learn to 
 ## Concept
 Sailing blends wind vectors, hull design, and navigation. Surfing centers on timing and energy transfer. Diving depends on pressure, buoyancy, and breathing control. Each discipline is a laboratory for fluid dynamics and adaptive planning.
 
+## Feel the science
+- Physics: fluid dynamics, buoyancy, wave energy, and pressure.
+- Engineering: redundancy, checklists, and route planning.
+- Psychology: calm under uncertainty, signal detection, and risk thresholds.
+
 ## Activity
 Stand by a river or watch a video of waves hitting a jetty. Sketch how water flows around obstacles. Mark areas of speed, turbulence, and calm. Then consider how you would move through that field safely and efficiently.
+
+## Reflection
+- Which signal told you to act early? How could you design an alert for it?
+- Where else do you navigate flows (information, traffic, workloads) the way you would navigate water?

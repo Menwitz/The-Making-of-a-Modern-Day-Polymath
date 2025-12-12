@@ -14,5 +14,12 @@ Cooking, batteries, vaccines, engines, and climate models all depend on controll
 ## Concept
 Chemistry starts with atoms and bonds, builds into reactions and kinetics, and merges with thermodynamics to track energy and entropy. Materials science applies these rules to create metals, polymers, ceramics, and composites with tuned properties. The theme: change requires accounting-what enters, what leaves, what is conserved.
 
+## Origin and bridge
+Need: control fire, preserve food, and craft stronger tools. Invention: rules for how matter rearranges and how energy flows. Leap: designing reactions, fuels, and materials on purpose. Bridge: chemistry and thermodynamics feed materials science, batteries, engines, and the systems engineers rely on.
+
 ## Activity
 Cook an egg two ways (boiled and fried). Note texture, time, and heat source. Write one paragraph about what happened to proteins and water in each method. You just performed a controlled experiment in phase change and denaturation.
+
+## Reflection
+- Where do you already rely on a transformation you cannot yet explain (e.g., fermentation, combustion, corrosion)?
+- What energy budget do you manage daily (calories, electricity, fuel), and how could you measure it better?

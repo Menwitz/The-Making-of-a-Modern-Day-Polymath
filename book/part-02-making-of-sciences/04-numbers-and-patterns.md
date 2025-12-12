@@ -14,5 +14,12 @@ Math is the substrate of every quantitative field. Fluency in its patterns lets 
 ## Concept
 Start simple: counting and number systems let you label quantity. Arithmetic manipulates those labels; algebra abstracts them; calculus tracks change. Along the way, geometry and probability offer spatial and uncertainty lenses. Each layer refines your ability to compress reality into symbols and reason reliably.
 
+## Origin and bridge
+Need: track harvests and trades. Invention: numbers and place value to record and compare. Leap: algebra and calculus to predict and optimize change. Bridge: math gives physics its language and every later science its measuring stick.
+
 ## Activity
 Take a daily routine (making coffee, commuting). Count something for a week: steps, grams, minutes. Plot the numbers on a simple graph. Ask: what pattern appears? Make one small change and see how the pattern shifts. You just ran an experiment with math as your lens.
+
+## Reflection
+- Which pattern emerged from your counting? What does it suggest you could predict or improve?
+- Where does math feel abstract? What concrete need would make it vivid?

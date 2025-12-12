@@ -14,5 +14,14 @@ Embodied skills deepen cognitive models. When you feel torque, momentum, and tim
 ## Concept
 Athletics, yoga, and dance each refine control, flexibility, and rhythm. They teach alignment (how force travels through joints), timing (when to apply effort), and recovery (how systems restore). Movement practice is iterative modeling with your own body as the test bed.
 
+## Feel the science
+- Physics: torque, momentum, center of mass.
+- Biology: proprioception, muscle recovery, nervous-system adaptation.
+- Psychology: attention and feedback loops under mild stress.
+
 ## Activity
 Film yourself performing a simple move (air squat, sun salutation, basic dance step). Watch in slow motion. Note joint angles and balance shifts. Make one adjustment and refilm. Observe how feedback tightens your internal model.
+
+## Reflection
+- Which physics idea did you feel (not just think about) during practice?
+- How could you teach this movement to someone by borrowing a metaphor from another field?

@@ -14,5 +14,12 @@ Medicine, agriculture, and neuroscience rest on understanding how information an
 ## Concept
 Start with cells and membranes, move to genetics (DNA, RNA, proteins), then to molecular biology (pathways, regulation). Systems biology views interactions as networks. Neuroscience adds electrochemical signaling and plasticity. Computational biology models all of the above to predict behavior and design interventions.
 
+## Origin and bridge
+Need: explain growth, illness, and inheritance. Invention: the idea that instructions (genes) and signals drive living matter. Leap: mapping networks of information in biology and brains. Bridge: biology's code inspires computing and AI; computing returns the favor with tools to read and edit life.
+
 ## Activity
 Extract DNA from a strawberry (many home guides exist: salt, dish soap, alcohol). Observe the cloudy strands. Write a short note on how that physical goo encodes traits like flavor and color. Then sketch one feedback loop in your own body (e.g., hunger hormones) and label the signals.
+
+## Reflection
+- Which biological feedback loop reminds you of an engineered control system?
+- How does thinking in \"code\" change your view of health or behavior?

@@ -14,5 +14,12 @@ Polymathy without judgment is cleverness without compass. Ethics, philosophy, an
 ## Concept
 Wisdom asks: What is the purpose? Who is affected? What happens next? It integrates context (history), principles (ethics), and consequences (systems thinking). A polymath gathers perspectives but lets wisdom pick the path. This keeps curiosity constructive and guards against unintended harm.
 
+## Bridge
+Every leap in science creates new power-and new risk. Wisdom is the gate between \"can\" and \"should,\" and it decides how we use the bridges between disciplines. Without it, integration can amplify harm; with it, integration compounds benefit.
+
 ## Activity
 Take a recent decision you made at work or home. Write a short postmortem: What did you optimize for? Who benefitted? Who paid a cost? How would a historian, an ethicist, and a systems engineer critique your choice? Note one change you would make next time.
+
+## Reflection
+- Where did a past project go wrong because \"can\" outran \"should\"?
+- What principle will you use to arbitrate conflicts between lenses (e.g., safety, equity, reversibility)?

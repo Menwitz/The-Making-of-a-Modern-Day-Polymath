@@ -14,5 +14,12 @@ Every technical system lives inside a social system. Understanding incentives, c
 ## Concept
 Language enables memory and coordination; literature transmits values; history shows patterns and consequences; economics models incentives and trade-offs; political science studies power and governance. Together they explain why groups act as they do and how change spreads.
 
+## Origin and bridge
+Need: coordinate groups and remember agreements. Invention: language, story, and record-keeping. Leap: formal models of incentives, power, and culture. Bridge: social sciences feed design, policy, and ethics-shaping how technical systems land in the real world.
+
 ## Activity
 Pick a current policy debate. Summarize it twice: once as a story (characters, conflict, stakes) and once as an economics problem (agents, incentives, constraints). Compare what each summary highlights and omits. Note how that changes your view of viable solutions.
+
+## Reflection
+- Which incentive or story currently drives your team, community, or market?
+- Where could a change in narrative unlock a better outcome?
