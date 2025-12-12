@@ -19,6 +19,14 @@ Sailing blends wind vectors, hull design, and navigation. Surfing centers on tim
 - Engineering: redundancy, checklists, and route planning.
 - Psychology: calm under uncertainty, signal detection, and risk thresholds.
 
+### Quick map (need -> invention -> next field)
+- Travel and trade -> navigation and seamanship -> marine engineering and global commerce.
+- Surviving moving water -> reading waves and currents -> safety systems and rescue protocols.
+- Harvesting energy -> sails and wavecraft -> renewable tech and efficient hull design.
+
+### Optional mini-visual
+Sketch water flowing around a rock. Mark fast flow, eddies, and calm zones. Add an arrow for your planned line through the water and one contingency route.
+
 ## Activity
 Stand by a river or watch a video of waves hitting a jetty. Sketch how water flows around obstacles. Mark areas of speed, turbulence, and calm. Then consider how you would move through that field safely and efficiently.
 

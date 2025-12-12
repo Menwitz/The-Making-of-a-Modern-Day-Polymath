@@ -19,6 +19,14 @@ Mechanics covers forces, levers, and gear ratios. Electronics introduces voltage
 - Electronics: voltage, current, resistance, and simple logic.
 - Design: iteration, constraints, and trade-offs.
 
+### Quick map (need -> invention -> next field)
+- Fixing daily tools -> mechanics basics -> engineering intuition and diagnostics.
+- Automating small tasks -> simple circuits and microcontrollers -> prototypes and products.
+- Reducing guesswork -> build-test-refine loops -> design judgment you can trust.
+
+### Optional mini-visual
+Draw an exploded sketch of a simple device (bike brake, flashlight). Label where force travels or where electrons flow. Circle one point most likely to fail and test it.
+
 ## Activity
 Disassemble a small broken device (old mouse, toy). Identify each component and guess its role. Reassemble or repurpose parts into something simple (LED on battery with switch). Note what you learned about design choices and constraints.
 

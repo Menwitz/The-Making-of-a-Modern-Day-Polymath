@@ -17,6 +17,14 @@ Math gives you abstract structures; physics applies them to matter and energy; e
 ## Bridge
 Need -> invention -> next field: counting trade gave us arithmetic; predicting motion gave us physics; building reliable machines gave us engineering; scaling logic gave us computing; computing now feeds AI. The more you see these links, the faster you can learn and recombine.
 
+### Quick map (need -> invention -> next field)
+- Trade and measurement -> numbers, geometry, and calculus -> physics.
+- Predicting motion and force -> physics -> engineering and infrastructure.
+- Scaling logic and coordination -> computing -> AI and networked systems.
+
+### Optional mini-visual
+Sketch a five-rung ladder for a tool you use (e.g., GPS, streaming). Label each rung with the prerequisite idea beneath it. Mark the rung you understand least as a target for study.
+
 ## Activity
 Pick a technology you use daily (GPS, streaming video, bike gears). Map the prerequisite ideas back five steps. Example for GPS: satellites -> orbital mechanics -> Newtonian physics -> calculus -> measurement and geometry. Identify the weakest link in your own understanding and spend 20 minutes reading or watching a primer on it.
 

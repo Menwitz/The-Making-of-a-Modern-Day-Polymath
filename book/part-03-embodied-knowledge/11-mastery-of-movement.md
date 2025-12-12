@@ -19,6 +19,14 @@ Athletics, yoga, and dance each refine control, flexibility, and rhythm. They te
 - Biology: proprioception, muscle recovery, nervous-system adaptation.
 - Psychology: attention and feedback loops under mild stress.
 
+### Quick map (need -> invention -> next field)
+- Balance and control -> movement practice and feedback -> intuition for force and alignment.
+- Power without injury -> technique and recovery -> sustainable training and coaching.
+- Faster skill acquisition -> deliberate practice loops -> performance in sport and daily life.
+
+### Optional mini-visual
+Draw three frames of the same movement (start, force application, finish). Mark center of mass and arrows for force. Note one adjustment to test in the next rep.
+
 ## Activity
 Film yourself performing a simple move (air squat, sun salutation, basic dance step). Watch in slow motion. Note joint angles and balance shifts. Make one adjustment and refilm. Observe how feedback tightens your internal model.
 

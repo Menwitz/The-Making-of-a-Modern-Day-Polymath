@@ -19,6 +19,14 @@ Emotional intelligence starts with self-awareness and regulation. Rhetoric offer
 - Linguistics: framing, metaphor, and pacing.
 - Systems: incentives and feedback loops in groups.
 
+### Quick map (need -> invention -> next field)
+- Coordinate and collaborate -> clear communication -> effective teams and teaching.
+- Navigate conflict -> negotiation and empathy -> durable agreements and trust.
+- Influence change -> rhetoric and storytelling -> culture shifts and leadership.
+
+### Optional mini-visual
+Draw two silhouettes facing each other with arrows for message, emotion, and trust. Note one move (question, pause, metaphor) that improves each arrow in your next conversation.
+
 ## Activity
 Rewrite a recent request you made (email or text) in three versions: one emphasizing logic, one emphasizing shared values, and one using a story. Send the most appropriate version to a trusted friend and ask which resonates. Note how framing shifts response.
 

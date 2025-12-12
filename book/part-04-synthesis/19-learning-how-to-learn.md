@@ -15,6 +15,14 @@ Metacognition (thinking about how you think) guides strategy. Spaced repetition 
 ## Bridge
 Learning mechanics are the glue for polymathy. They let you climb prerequisite chains faster and keep the bridges between fields intact instead of forgetting them.
 
+### Quick map (need -> invention -> next field)
+- Forgetting and overload -> spaced repetition and active recall -> durable knowledge across domains.
+- Stalling on hard topics -> backfill prerequisites and interleaving -> faster comprehension.
+- Plateaued skills -> deliberate practice with feedback -> transferable mastery loops.
+
+### Optional mini-visual
+Sketch a learning loop: plan -> practice/recall -> feedback -> reflection -> next plan. Mark where you will add one new tactic (spaced repetition, interleaving, or teaching).
+
 ## Activity
 Choose one topic you want to learn. Create a 7-day plan: daily 25-minute sessions using active recall (flashcards or closed-book summaries), plus a short reflection each night on what stuck and what needs clarification. At the end, teach the topic in five minutes to a friend or camera.
 

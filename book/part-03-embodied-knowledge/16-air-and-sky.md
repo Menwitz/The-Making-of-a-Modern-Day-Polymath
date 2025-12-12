@@ -19,6 +19,14 @@ Aerodynamics explains lift and drag; gliding and powered flight add energy manag
 - Systems: checklists, redundancy, and human factors.
 - Psychology: calm under time pressure and signal prioritization.
 
+### Quick map (need -> invention -> next field)
+- Curiosity about flight -> kites and gliders -> aerodynamics and aviation.
+- Safer travel -> checklists and training -> disciplined operations in any domain.
+- Play in the air -> body control and canopy skills -> spatial awareness and risk planning.
+
+### Optional mini-visual
+Fold two paper airplane variants. Sketch them side by side and annotate how wing angle or nose weight changes lift, glide, and stability.
+
 ## Activity
 Fold and test three paper airplane designs. Measure glide distance and stability. Write down how small design changes (wing dihedral, nose weight) alter performance. Connect those changes to lift, drag, and center of gravity.
 

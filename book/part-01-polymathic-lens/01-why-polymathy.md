@@ -17,6 +17,14 @@ Specialization narrows search space; polymathy expands it. When you can ask "Wha
 ## Bridge
 This book argues that every science was born from a need: counting for trade, physics for motion, chemistry for materials, computing for scale. Polymathy lets you trace those needs, spot the handoffs, and reuse ideas across domains and daily life.
 
+### Quick map (need -> invention -> next field)
+- Complex, messy problems -> multiple lenses to expand options -> more resilient solutions.
+- Brittleness in one domain -> cross-training in adjacent fields -> faster creative leaps.
+- Narrow framing -> translation and analogy -> new collaborations and new ideas.
+
+### Optional mini-visual
+Draw overlapping circles for three lenses you use often (e.g., science, design, story). In the intersection, list one problem that benefits from all three and one risk if you drop a lens.
+
 ## Quick checklist
 - Name three lenses to apply (e.g., scientist, designer, storyteller).
 - For each lens, write one naive question and one expert question.

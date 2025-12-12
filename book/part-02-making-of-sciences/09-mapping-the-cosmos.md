@@ -17,8 +17,16 @@ Start with observational astronomy (charting positions and light), add celestial
 ## Origin and bridge
 Need: navigate and tell time. Invention: careful watching, logging, and predicting the heavens. Leap: physics of gravity and light that scales to galaxies and time itself. Bridge: astronomy sharpened instruments (lenses, sensors, timekeeping) that empowered physics, engineering, and eventually computing.
 
+### Quick map (need -> invention -> next field)
+- Navigation and calendars -> observational astronomy -> physics of motion and modern navigation.
+- Curiosity about origins -> cosmology -> telescopes, sensors, and timekeeping tech.
+- Search for life -> astrobiology -> planetary science and biology's limits.
+
 ## Activity
 Go outside and sketch the moon's position relative to a landmark at the same time for three nights. Note its shift. Write one paragraph on what that motion suggests about orbits. You just did observational astronomy.
+
+### Optional mini-visual
+Sketch two circles: Earth and the Moon with an arrow showing nightly movement relative to a fixed landmark. Add a note on what that implies about orbit period and perspective.
 
 ## Reflection
 - How does a cosmic timescale change your view of daily choices?

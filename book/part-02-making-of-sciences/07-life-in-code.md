@@ -17,8 +17,16 @@ Start with cells and membranes, move to genetics (DNA, RNA, proteins), then to m
 ## Origin and bridge
 Need: explain growth, illness, and inheritance. Invention: the idea that instructions (genes) and signals drive living matter. Leap: mapping networks of information in biology and brains. Bridge: biology's code inspires computing and AI; computing returns the favor with tools to read and edit life.
 
+### Quick map (need -> invention -> next field)
+- Illness and inheritance -> genetics and molecular biology -> medicine and biotech.
+- Sensing and adaptation -> systems biology and neuroscience -> behavior and ecology.
+- Decoding complexity -> bioinformatics and computational models -> synthetic biology and AI inspiration.
+
 ## Activity
 Extract DNA from a strawberry (many home guides exist: salt, dish soap, alcohol). Observe the cloudy strands. Write a short note on how that physical goo encodes traits like flavor and color. Then sketch one feedback loop in your own body (e.g., hunger hormones) and label the signals.
+
+### Optional mini-visual
+Sketch two layers: code (DNA/RNA), circuitry (pathways/neurons), behavior (organism output). Draw arrows showing signals and feedback between layers. Label one example in each layer.
 
 ## Reflection
 - Which biological feedback loop reminds you of an engineered control system?

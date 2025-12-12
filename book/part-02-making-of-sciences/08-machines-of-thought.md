@@ -17,8 +17,16 @@ Start with algorithms (step-by-step procedures) and data structures (how you org
 ## Origin and bridge
 Need: automate calculation and communication. Invention: procedures (algorithms) and structures (data) that machines can execute. Leap: learning systems that infer patterns (AI). Bridge: computing scales every discipline-physics simulations, chemistry modeling, biology sequencing-and now feeds back into how we think about thinking.
 
+### Quick map (need -> invention -> next field)
+- Fast calculation -> algorithms and hardware -> information systems and automation.
+- Trusted communication -> cryptography -> digital commerce and secure coordination.
+- Pattern recognition -> machine learning -> human-AI collaboration and new interfaces.
+
 ## Activity
 Implement a simple cipher by hand: write a message, shift each letter by three (Caesar cipher), and share it with a friend to decode. Then list one strength and one weakness of this scheme. You just explored the basics of algorithms and cryptography.
+
+### Optional mini-visual
+Draw a three-box sketch: input data -> algorithm/model -> output + feedback. Annotate one place where a human designs the rules and one where the machine learns patterns.
 
 ## Reflection
 - Where do you already trust an algorithm with judgment (recommendations, navigation)? Why?

@@ -14,6 +14,14 @@ Automation will handle narrow tasks; humans add value by connecting domains, set
 ## Concept
 AI and automation extend cognition; complexity science studies systems with feedback and emergence; bioengineering rewrites living systems. Each raises ethical questions about power, equity, and risk. The polymath's job is to stay curious, keep learning loops tight, and anchor choices in values.
 
+### Quick map (need -> invention -> next field)
+- New frontiers (AI, bioengineering) -> cross-domain fluency + ethics -> responsible innovation.
+- Automation of narrow tasks -> human judgment on goals and risk -> direction-setting and governance.
+- Complex, interconnected systems -> complexity science -> resilient design and policy.
+
+### Optional mini-visual
+Draw a compass with four points: tech, ethics, systems, people. Place one emerging field in the center and note which point you need to consult before moving.
+
 ## Activity
 Pick one emerging topic (AI safety, quantum biology, synthetic food). Write a one-page brief with: the core idea, one potential benefit, one risk, and one ethical question. Identify the disciplines you would need to consult to act responsibly.
 

@@ -19,6 +19,14 @@ Culinary chemistry covers heat transfer, Maillard reactions, and emulsions. Fora
 - Thermodynamics: heat transfer and energy budgets.
 - Ecology/ethics: resource cycles, sustainability, and respect for impact.
 
+### Quick map (need -> invention -> next field)
+- Preserve and prepare food -> controlled heat and cooking methods -> culinary science and nutrition.
+- Survive outdoors -> fire-making and shelter basics -> energy management and safety.
+- Respect ecosystems -> foraging and ethical hunting -> sustainable resource use and stewardship.
+
+### Optional mini-visual
+Draw three heat methods (roast, steam, sear) as inputs leading to a plate. Note how each changes moisture, texture, and flavor for the same ingredient.
+
 ## Activity
 Cook the same ingredient three ways (roast, steam, sear). Note texture, flavor, and moisture differences. Write one paragraph on how heat method changed the chemistry. Optionally, practice a friction fire with supervision or a ferro rod to feel energy transfer firsthand.
 

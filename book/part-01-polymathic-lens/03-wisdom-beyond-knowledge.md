@@ -17,6 +17,14 @@ Wisdom asks: What is the purpose? Who is affected? What happens next? It integra
 ## Bridge
 Every leap in science creates new power-and new risk. Wisdom is the gate between \"can\" and \"should,\" and it decides how we use the bridges between disciplines. Without it, integration can amplify harm; with it, integration compounds benefit.
 
+### Quick map (need -> invention -> next field)
+- New capability -> ethical framing -> responsible use and policy.
+- Conflicting lenses -> shared principles -> aligned decisions across disciplines.
+- Unseen consequences -> systems thinking -> safeguards, reversibility, and stewardship.
+
+### Optional mini-visual
+Draw a gate between two boxes: \"Can we?\" and \"Should we?\" Label the gate with your core principles. Beneath, list one current decision and note what passes through the gate and what gets paused.
+
 ## Activity
 Take a recent decision you made at work or home. Write a short postmortem: What did you optimize for? Who benefitted? Who paid a cost? How would a historian, an ethicist, and a systems engineer critique your choice? Note one change you would make next time.
 

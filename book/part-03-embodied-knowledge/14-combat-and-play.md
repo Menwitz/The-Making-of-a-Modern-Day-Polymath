@@ -19,6 +19,14 @@ Martial arts teach distance, leverage, and respect. Boxing refines timing and de
 - Psychology: stress responses, attention, pattern recognition.
 - Strategy: game theory, risk/reward, and feedback loops.
 
+### Quick map (need -> invention -> next field)
+- Resolve conflict safely -> martial arts fundamentals -> confidence and composure under stress.
+- Decide under uncertainty -> strategy games -> faster pattern recognition and planning.
+- Improve fast -> feedback from sparring/play -> better decision loops in work and life.
+
+### Optional mini-visual
+Sketch a simple feedback loop: perceive pattern -> choose action -> get hit/score -> adjust guard or strategy. Note one trigger that tells you to switch tactics.
+
 ## Activity
 Play a five-minute chess game and note three moments you misread the board. Then shadowbox or air-spar for two minutes, focusing only on footwork and breathing. Write one line about how your attention shifted in each practice.
 
